@@ -1,0 +1,16 @@
+[
+{
+  "modid": "em",
+  "name": "Emerald Mod",
+  "description": "A test mod do not download.",
+  "version": "0.1",
+  "mcversion": "1.12.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Aaron,Micheal"],
+  "credits": "Aaron and Micheal, also Harry`s Tech Reviews for making the video that taught us how to make Mods.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
